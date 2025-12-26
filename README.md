@@ -4,4 +4,7 @@ My name is burnobad. I do graphics programming and game dev
 
 Here are some thing I have done:
 
-!(/Gojo-Sukuna-Domain.jpg)
+![Example](/Gojo-Sukuna-Domain.jpg)
+![Example](/Pulchra-Rotating.gif)
+![Example](/Gojo-rotates(without-normal-map) (1).gif)
+![Example](/Earth_Moon.gif)
