@@ -6,7 +6,7 @@ The game I released as part of an 8 man team: https://store.steampowered.com/app
 
 Other games on itch: https://burnobad.itch.io/
 
-Here are some thing I have done:
+Here are some of my graphics projects:
 
 ![Example](/Gojo-Sukuna-Domain.jpg)
 ![Example](/Pulchra-Rotating.gif)
