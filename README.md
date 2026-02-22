@@ -8,7 +8,7 @@ Other games on itch: https://burnobad.itch.io/
 
 Here are some of my graphics projects:
 
-![Example](/Gojo-Sukuna-Domain.jpg)
 ![Example](/Pulchra-Rotating.gif)
+![Example](/Gojo-Sukuna-Domain.jpg)
+![Example](/grass-billboard-v1.gif)
 ![Example](/Gojo-rotates(without-normal-map).gif)
-![Example](/Earth_Moon.gif)
