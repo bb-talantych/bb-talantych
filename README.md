@@ -9,7 +9,7 @@ Other games on itch: https://burnobad.itch.io/
 Here are some of my graphics projects:
 
 ![Example](/volumetric-custom.gif)
-![Example](/grass-billboard-v1.gif)
+![Example](/grass-model-v2.gif)
 ![Example](/Pulchra-Rotating.gif)
 ![Example](/Gojo-Sukuna-Domain.jpg)
 ![Example](/Gojo-rotates(without-normal-map).gif)
